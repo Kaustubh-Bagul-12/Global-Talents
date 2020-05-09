@@ -112,7 +112,7 @@ Nilabdhi Majumdar
 
 # Developers 
 
-Krushna Raut Rakesh B. Amrutkar Sarang Ghode Manish Bhilare  
+Sarang Ghode, Krushna Raut, Rakesh B. Amrutkar, Manish Bhilare and Kaustubh Baghul  
 
 Documents 
 
